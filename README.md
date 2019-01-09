@@ -1,16 +1,16 @@
-frontend-nanodegree-arcade-game
+Frontend-nanodegree-arcade-game
 ===============================
 
 Sobre
 O projeto Consiste em um joga Arcade imitando o classico Flog.
 
 Como Jogar
-Abra o arquivo index pelo navegador.
-Use as setas para controla o personagem.
-Cuidado para não incostar nos inimigos.
-Tente chegar na água.
-Cada vez que você chegar na água você ganhará pontos.
-Se ficar sem morrer ganhará pontos extras,
+	Abra o arquivo index pelo navegador.
+	Use as setas para controla o personagem.
+	Cuidado para não incostar nos inimigos.
+	Tente chegar na água.
+	Cada vez que você chegar na água você ganhará pontos.
+	Se ficar sem morrer ganhará pontos extras.
 
 Ferramentas
 Foram usado JavaScript 2015,Html5 Canvas,CSS.
